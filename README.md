@@ -5,12 +5,7 @@ Saswat Subhajyoti Mallick*, Rahul Goel*, Bernhard Kerbl, Francisco Vicente Carra
 
 **TL;DR** We improve the densification process to make the primitive count deterministic and implement several low-level optimizations for fast convergence.
 
-## Usage
-Clone the repository
-```bash
-git clone https://github.com/humansensinglab/taming-3dgs.git --recursive
-```
-Follow the instructions in the [original 3DGS repository](https://github.com/graphdeco-inria/gaussian-splatting) to setup the environment.
+
 
 <details>
 <summary><span style="font-weight: bold;">additional flags for train.py</span></summary>
